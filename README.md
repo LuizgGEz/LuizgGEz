@@ -7,10 +7,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizgGEz&count_private=true&show_icons=true&theme=swift&locale=pt-br&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizgGEz&layout=compact&card_width=180em&theme=swift&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-
-##
+<div style="display: inline_block"><br>
+  <img align="center" alt="LG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
