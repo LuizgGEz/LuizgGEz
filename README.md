@@ -1,7 +1,7 @@
 ## Salve, salve, quebrada! Me chamo Luiz Guilherme
 
 - 🔭 Estudei no bimestre passado: Introdução às Redes de Computadores, Algoritmos (Narrativa), Fluxograma, Pseudocódigo e Python
-- 🌱 Estudando neste bimestre: Comandos de Windows e Linux, Sistemas de Virtualização, Docker, Fluxograma, Pseudocódigo e Python
+- 🌱 Estou estudando neste bimestre: Comandos de Windows e Linux, Sistemas de Virtualização, Docker, Fluxograma, Pseudocódigo e Python
 - 😄 Pronomes: ele/dele
 
 <div>
