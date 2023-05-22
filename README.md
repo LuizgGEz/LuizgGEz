@@ -8,6 +8,7 @@
   <a href="https://github.com/LuizgGEz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizgGEz&count_private=true&show_icons=true&theme=swift&locale=pt-br&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizgGEz&layout=compact&card_width=180em&theme=swift&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=LuizgGEz"/>
 </div>
 
 <div style="display: inline_block"><br>
