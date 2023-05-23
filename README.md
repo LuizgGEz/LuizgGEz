@@ -27,5 +27,7 @@
 
 <div>
   <a href="https://www.github.com/LuizgGEz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.github.com/LuizgGEz" target="_blank"><img src="https://img.shields.io/github/followers/LuizgGEz?logo=GitHub&style=for-the-badge" target="_blank"></a>
+  <a href="https://www.github.com/LuizgGEz" target="_blank"><img src="https://img.shields.io/github/stars/LuizgGEz?logo=github&style=for-the-badge" target="_blank"></a>
   <a href="https://www.github.com/LuizgGEz" target="_blank"><img src="https://komarev.com/ghpvc/?username=LuizgGEz&color=blue&style=flat" target="_blank"></a>
 </div>
