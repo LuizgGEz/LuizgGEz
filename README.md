@@ -30,4 +30,5 @@
   <a href="https://www.github.com/LuizgGEz" target="_blank"><img src="https://img.shields.io/github/followers/LuizgGEz?logo=GitHub&style=for-the-badge" target="_blank"></a>
   <a href="https://www.github.com/LuizgGEz" target="_blank"><img src="https://img.shields.io/github/stars/LuizgGEz?logo=github&style=for-the-badge" target="_blank"></a>
   <a href="https://www.github.com/LuizgGEz" target="_blank"><img src="https://komarev.com/ghpvc/?username=LuizgGEz&color=blue&style=flat" target="_blank"></a>
+  <a href="https://www.github.com/LuizgGEz" target="_blank"><img src="https://views.whatilearened.today/views/github/LuizgGEz/LuizgGEz.svg" target="_blank"></a> 
 </div>
