@@ -1,7 +1,7 @@
 ## Salve, salve, rapaziada! Me chamo Luiz
 
-- 🔭 Estudei no bimestre passado: Introdução às Redes de Computadores, Algoritmos (Narrativa), Fluxograma, Pseudocódigo e Python
-- 🌱 Estou estudando neste bimestre: Comandos de Windows e Linux, Sistemas de Virtualização, Docker, Fluxograma, Pseudocódigo e Python
+- 🔭 Estudei no bimestre passado: Comandos de Windows e Linux, Sistemas de Virtualização, Docker, Fluxograma, Pseudocódigo e Python
+- 🌱 Estou estudando neste bimestre: Engenharia de Software e Banco de Dados
 - 😄 Pronomes: ele/dele
 
 <div>
